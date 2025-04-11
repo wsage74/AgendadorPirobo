@@ -1,8 +1,6 @@
 # DateScheduler 📅✨
 
-Agendador en Python |
-
-DateScheduler es un agendador de citas que tiene en cuenta días, meses y años. Creado como primer proyecto de programación.
+Agendador en Python | DateScheduler es un agendador de citas que tiene en cuenta días, meses y años. Creado como primer proyecto de programación.
 
 ## Proyecto en desarrollo 👨‍💻
 
