@@ -4,7 +4,7 @@ Agendador en Python | DateScheduler es un agendador de citas que tiene en cuenta
 
 ## Proyecto en desarrollo 👨‍💻
 
-Actualmente está destinado a usarse desde la terminal, pero se está trabajando en el desarrollo de una interfaz gráfica.
+Esta versión ya está finalizada y está destinada a usarse desde la terminal, pero se está trabajando en el desarrollo de una interfaz gráfica la cual se subirá en otro repositorio.
 
 
 ## ¿Por qué DateScheduler? 🤔
